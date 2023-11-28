@@ -1,0 +1,26 @@
+shoot.png
+size: 500, 1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 0, 0
+  size: 500, 264
+  orig: 500, 264
+  offset: 0, 0
+  index: -1
+shoot3
+  rotate: false
+  xy: 0, 264
+  size: 500, 402
+  orig: 500, 402
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: false
+  xy: 0, 666
+  size: 500, 369
+  orig: 500, 369
+  offset: 0, 0
+  index: -1

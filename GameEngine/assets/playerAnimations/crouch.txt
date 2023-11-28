@@ -1,0 +1,26 @@
+crouch.png
+size: 135, 61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crouch
+  rotate: false
+  xy: 0, 0
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+crouch
+  rotate: false
+  xy: 44, 0
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+crouch
+  rotate: false
+  xy: 86, 0
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1

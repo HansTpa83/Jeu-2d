@@ -1,0 +1,252 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/Levels/Level2.tmx",
+    "expandedProjectPaths": [
+        "assets/Levels",
+        ".",
+        "assets"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Les tsx/Flag.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Les tsx/background_layer_1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Les tsx/background_layer_2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Les tsx/background_layer_3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Les tsx/oak_woods_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/AppData/Local/Temp/Rar$DIa24620.49219/Looping_Map_2.tmx": {
+            "scale": 0.7817708333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.95936042638243,
+                "y": 120.23984010659558
+            }
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Les tsx/Flag.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Les tsx/background_layer_1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Les tsx/background_layer_2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Les tsx/background_layer_3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Les tsx/oak_woods_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Looping_Map_2.tmx": {
+            "scale": 0.7817708333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.68021319120584,
+                "y": 120.87941372418385
+            }
+        },
+        "C:/Users/ASUS/OneDrive/Bureau/MetalSlugLike_Liam/Tuto_Map1.tmx": {
+            "scale": 1.042361111111111,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 13.431045969353764,
+                "y": -33.097934710193215
+            }
+        },
+        "Level1.tmx": {
+            "scale": 1.042361111111111,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 720.4796802131912,
+                "y": 331.93870752831447
+            }
+        },
+        "assets/Level1.tmx": {
+            "scale": 1.089861111111111,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 415.6492927233338,
+                "y": 180.75697718873454
+            }
+        },
+        "assets/Levels/Les tsx/Flag.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/Les tsx/background_layer_1.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/Les tsx/background_layer_2.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/Les tsx/background_layer_3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "assets/Levels/Les tsx/oak_woods_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/Level1.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 1.2481944444444444,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 331.6790920218093,
+                "y": 262.77957049070886
+            }
+        },
+        "assets/Levels/Level2.tmx": {
+            "scale": 1.042361111111111,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 95.45636242504997,
+                "y": 71.95203197868085
+            }
+        },
+        "assets/Levels/Level3.tmx": {
+            "scale": 0.7817708333333333,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 451.5389740173218,
+                "y": 301.87874750166554
+            }
+        },
+        "assets/Levels/Level4.tmx": {
+            "scale": 1.4249999999999998,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 239.2982456140351,
+                "y": 299.2982456140351
+            }
+        },
+        "assets/Levels/Looping_Map_2.tmx": {
+            "scale": 0.9361458333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 299.0986981195059,
+                "y": 120.17358406587292
+            }
+        },
+        "assets/Levels/Tuto_Map1.tmx": {
+            "scale": 1.2481944444444444,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.71959497051296,
+                "y": 120.57416267942585
+            }
+        },
+        "assets/Levels/Verticality_Map_3.tmx": {
+            "scale": 1.4249999999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.2982456140351,
+                "y": 299.2982456140351
+            }
+        },
+        "assets/Levels/background.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/fdfdf.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/Levels/test.tmx": {
+            "scale": 1.6255555555555554,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 179.63089542036911,
+                "y": 180.55365686944634
+            }
+        },
+        "assets/background.tsx": {
+            "scaleInDock": 1
+        },
+        "assets/fdfdf.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "assets/test.tmx": {
+            "scale": 2.179722222222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 180.29820313495605,
+                "y": 180.29820313495605
+            }
+        },
+        "background.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fdfdf.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "flag.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 2.084722222222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 179.8800799467022,
+                "y": 179.6402398401066
+            }
+        },
+        "testTuile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/Projet epitech/T-JAV-501-BDX_11/GameEngine/assets/Levels/Les tsx",
+    "last.imagePath": "D:/Projet epitech/T-JAV-501-BDX_11/GameEngine",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 30,
+    "openFiles": [
+        "assets/Levels/Level1.tmx",
+        "assets/Levels/test.tmx",
+        "assets/Levels/Level2.tmx",
+        "assets/Levels/Level3.tmx",
+        "assets/Levels/Level4.tmx"
+    ],
+    "project": "TiledMap.tiled-project",
+    "recentFiles": [
+        "assets/Levels/Level1.tmx",
+        "assets/Levels/test.tmx",
+        "assets/Levels/Level4.tmx",
+        "assets/Levels/Level3.tmx",
+        "assets/Levels/Level2.tmx",
+        "assets/Levels/Verticality_Map_3.tmx",
+        "assets/Levels/Tuto_Map1.tmx",
+        "assets/Levels/Looping_Map_2.tmx",
+        "test.tmx",
+        "fdfdf.tsx",
+        "Level1.tmx",
+        "background.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    },
+    "tileset.type": 1
+}
